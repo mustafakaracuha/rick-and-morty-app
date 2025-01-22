@@ -4,16 +4,6 @@ Welcome to the **Rick and Morty App**, a React Native project built with [Expo](
 
 ---
 
-## 📱 Features
-
--   **Character List:** Browse all Rick and Morty characters with their detailed information.
--   **Favorites:** Mark your favorite characters and access them in the Favorites section.
--   **Search:** Easily search for characters by name.
--   **Responsive Design:** Optimized for all screen sizes.
--   **Smooth Animations:** Experience fluid transitions and interactions.
-
----
-
 ## 🚀 Get Started
 
 ### 1. Clone the Repository
@@ -62,10 +52,10 @@ You'll have the following options to preview the app:
 
 ## 🌟 Future Enhancements
 
--   **Pagination:** Load characters in smaller batches for improved performance.
--   **Filters:** Filter characters by species, gender, or status.
--   **Offline Mode:** Access saved favorites even without an internet connection.
--   **Dark Mode:** Add a toggle for light and dark themes.
+-   **Infinite Scroll:** Smoothly load characters and episodes as users scroll down, enhancing the browsing experience.
+-   **List All Characters:** Display a complete list of all characters in the series.
+-   **List All Episodes:** Add a feature to show all episodes from the series, with details like episode name and air date.
+-   **Character Favorites:** Enhance the favorite feature to allow users to save specific characters. Provide a dedicated "Favorites" section where users can view and manage their favorite characters.
 
 ---
 
@@ -74,18 +64,6 @@ You'll have the following options to preview the app:
 -   [React Native Documentation](https://reactnative.dev/docs/getting-started)
 -   [Expo Documentation](https://docs.expo.dev/)
 -   [Rick and Morty API](https://rickandmortyapi.com/documentation/)
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Feel free to fork the repository and submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
