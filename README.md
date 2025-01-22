@@ -63,7 +63,7 @@ You'll have the following options to preview the app:
 
 | Home Screen                            | Episodes Details                      | Favorites                             |
 |---------------------------------------|----------------------------------------|---------------------------------------|
-| ![Home Screen](https://github.com/mustafakaracuha/rick-and-morty-app/blob/main/src/assets/screenshots/1.png) | ![Details Screen](https://github.com/mustafakaracuha/rick-and-morty-app/blob/main/src/assets/screenshots/22.png) | ![Favorites Screen](https://github.com/mustafakaracuha/rick-and-morty-app/blob/main/src/assets/screenshots/3.png) |
+| ![Home Screen](https://github.com/mustafakaracuha/rick-and-morty-app/blob/main/src/assets/screenshots/1.png) | ![Details Screen](https://github.com/mustafakaracuha/rick-and-morty-app/blob/main/src/assets/screenshots/2.png) | ![Favorites Screen](https://github.com/mustafakaracuha/rick-and-morty-app/blob/main/src/assets/screenshots/3.png) |
 
 ---
 
