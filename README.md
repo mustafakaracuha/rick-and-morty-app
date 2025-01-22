@@ -59,6 +59,14 @@ You'll have the following options to preview the app:
 
 ---
 
+## 📸 Screenshots
+
+| Home Screen                            | Character Details                      | Favorites                             |
+|---------------------------------------|----------------------------------------|---------------------------------------|
+| ![Home Screen](path-to-home-screenshot) | ![Details Screen](path-to-details-screenshot) | ![Favorites Screen](path-to-favorites-screenshot) |
+
+---
+
 ## 📚 Learn More
 
 -   [React Native Documentation](https://reactnative.dev/docs/getting-started)
